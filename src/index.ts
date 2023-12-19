@@ -3,7 +3,7 @@ import { telegram_send } from "./my_fn/telegram"
 
 
 const main = async () =>{
-    telegram_send('defi monitor start')
+    // telegram_send('defi monitor start')
 
     monitor_frax_moonwell()
 }
